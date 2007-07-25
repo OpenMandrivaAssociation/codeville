@@ -1,7 +1,7 @@
 %define name codeville
 %define oname Codeville
-%define version 0.1.16
-%define release %mkrel 2
+%define version 0.8.0
+%define release %mkrel 1
 
 Summary: Distributed version control system
 Name: %{name}
