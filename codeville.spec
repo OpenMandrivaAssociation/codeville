@@ -10,6 +10,7 @@ Release: %{release}
 Source0: http://www.codeville.org/download/%{oname}-%{version}.tar.bz2
 License: BSD
 Group: Development/Other
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 Url: http://www.codeville.org/
 BuildRequires: python-devel
