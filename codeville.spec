@@ -12,7 +12,7 @@ License: BSD
 Group: Development/Other
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
-Url: http://www.codeville.org/
+Url: https://www.codeville.org/
 BuildRequires: python-devel
 Requires: python
 
